@@ -1,0 +1,1218 @@
+Sesión iniciada. Mueve el oponente frente al robot.
+# Primera lectura tomada como referencia...
+72.7,88.8,0.0,0.0,1.3,0.0,1
+# Muestra 1/100 | Variación: IZQ=0.0 CENT=1.3 DER=0.0
+73.1,88.8,0.0,0.4,0.0,0.0,1
+# Muestra 2/100 | Variación: IZQ=0.4 CENT=0.0 DER=0.0
+68.8,83.2,0.0,4.3,5.6,0.0,1
+# Muestra 3/100 | Variación: IZQ=4.3 CENT=5.6 DER=0.0
+14.4,14.9,158.1,54.4,68.3,158.1,1
+# Muestra 4/100 | Variación: IZQ=54.4 CENT=68.3 DER=158.1
+12.4,175.9,0.0,2.0,161.0,158.1,1
+# Muestra 5/100 | Variación: IZQ=2.0 CENT=161.0 DER=158.1
+71.3,23.0,22.7,58.9,152.9,22.7,1
+# Muestra 6/100 | Variación: IZQ=58.9 CENT=152.9 DER=22.7
+73.1,65.1,0.0,1.7,42.2,22.7,1
+# Muestra 7/100 | Variación: IZQ=1.7 CENT=42.2 DER=22.7
+73.1,67.8,0.0,0.0,2.7,0.0,1
+# Muestra 8/100 | Variación: IZQ=0.0 CENT=2.7 DER=0.0
+72.2,89.2,0.0,0.9,21.4,0.0,1
+# Muestra 9/100 | Variación: IZQ=0.9 CENT=21.4 DER=0.0
+16.1,14.2,23.5,56.1,75.0,23.5,1
+# Muestra 10/100 | Variación: IZQ=56.1 CENT=75.0 DER=23.5
+10.0,139.3,0.0,6.0,125.1,23.5,1
+# Muestra 11/100 | Variación: IZQ=6.0 CENT=125.1 DER=23.5
+9.7,11.7,0.0,0.3,127.5,0.0,1
+# Muestra 12/100 | Variación: IZQ=0.3 CENT=127.5 DER=0.0
+71.8,70.4,0.0,62.0,58.6,0.0,1
+# Muestra 13/100 | Variación: IZQ=62.0 CENT=58.6 DER=0.0
+70.4,70.8,0.0,1.3,0.5,0.0,1
+# Muestra 14/100 | Variación: IZQ=1.3 CENT=0.5 DER=0.0
+15.1,12.8,17.8,55.4,58.1,17.8,1
+# Muestra 15/100 | Variación: IZQ=55.4 CENT=58.1 DER=17.8
+16.4,132.9,0.0,1.3,120.1,17.8,1
+# Muestra 16/100 | Variación: IZQ=1.3 CENT=120.1 DER=17.8
+68.3,15.6,17.2,51.9,117.3,17.2,1
+# Muestra 17/100 | Variación: IZQ=51.9 CENT=117.3 DER=17.2
+68.3,70.4,0.0,0.0,54.8,17.2,1
+# Muestra 18/100 | Variación: IZQ=0.0 CENT=54.8 DER=17.2
+69.1,70.5,0.0,0.9,0.1,0.0,1
+# Muestra 19/100 | Variación: IZQ=0.9 CENT=0.1 DER=0.0
+19.0,22.1,0.0,50.1,48.4,0.0,1
+# Muestra 20/100 | Variación: IZQ=50.1 CENT=48.4 DER=0.0
+13.7,23.3,0.0,5.2,1.2,0.0,1
+# Muestra 21/100 | Variación: IZQ=5.2 CENT=1.2 DER=0.0
+67.9,70.4,0.0,54.1,47.1,0.0,1
+# Muestra 22/100 | Variación: IZQ=54.1 CENT=47.1 DER=0.0
+68.3,70.4,0.0,0.4,0.0,0.0,1
+# Muestra 23/100 | Variación: IZQ=0.4 CENT=0.0 DER=0.0
+6.4,4.7,118.5,61.8,65.7,118.5,1
+# Muestra 24/100 | Variación: IZQ=61.8 CENT=65.7 DER=118.5
+6.4,89.5,0.0,0.0,84.8,118.5,1
+# Muestra 25/100 | Variación: IZQ=0.0 CENT=84.8 DER=118.5
+67.8,71.3,8.9,61.4,18.2,8.9,1
+# Muestra 26/100 | Variación: IZQ=61.4 CENT=18.2 DER=8.9
+68.3,16.9,8.9,0.4,54.4,0.0,1
+# Muestra 27/100 | Variación: IZQ=0.4 CENT=54.4 DER=0.0
+11.7,71.3,0.0,56.6,54.4,8.9,1
+# Muestra 28/100 | Variación: IZQ=56.6 CENT=54.4 DER=8.9
+68.7,68.8,22.9,57.0,2.5,22.9,1
+# Muestra 29/100 | Variación: IZQ=57.0 CENT=2.5 DER=22.9
+71.3,81.0,0.0,2.6,12.2,22.9,1
+# Muestra 30/100 | Variación: IZQ=2.6 CENT=12.2 DER=22.9
+25.8,62.0,0.0,45.6,19.0,0.0,1
+# Muestra 31/100 | Variación: IZQ=45.6 CENT=19.0 DER=0.0
+28.4,30.4,0.0,2.6,31.6,0.0,1
+# Muestra 32/100 | Variación: IZQ=2.6 CENT=31.6 DER=0.0
+68.3,68.8,0.0,39.9,38.4,0.0,1
+# Muestra 33/100 | Variación: IZQ=39.9 CENT=38.4 DER=0.0
+68.3,68.8,38.0,0.0,0.0,38.0,1
+# Muestra 34/100 | Variación: IZQ=0.0 CENT=0.0 DER=38.0
+30.6,123.1,0.0,37.7,54.3,38.0,1
+# Muestra 35/100 | Variación: IZQ=37.7 CENT=54.3 DER=38.0
+28.1,36.7,0.0,2.5,86.4,0.0,1
+# Muestra 36/100 | Variación: IZQ=2.5 CENT=86.4 DER=0.0
+68.7,69.6,0.0,40.6,33.0,0.0,1
+# Muestra 37/100 | Variación: IZQ=40.6 CENT=33.0 DER=0.0
+68.3,70.5,21.1,0.4,0.9,21.1,1
+# Muestra 38/100 | Variación: IZQ=0.4 CENT=0.9 DER=21.1
+23.4,91.8,0.0,44.9,21.3,21.1,1
+# Muestra 39/100 | Variación: IZQ=44.9 CENT=21.3 DER=21.1
+14.4,189.1,0.0,9.0,97.3,0.0,1
+# Muestra 40/100 | Variación: IZQ=9.0 CENT=97.3 DER=0.0
+69.5,80.6,0.0,55.1,108.5,0.0,1
+# Muestra 41/100 | Variación: IZQ=55.1 CENT=108.5 DER=0.0
+67.8,70.8,0.0,1.7,9.7,0.0,1
+# Muestra 42/100 | Variación: IZQ=1.7 CENT=9.7 DER=0.0
+4.5,8.3,0.0,63.3,62.6,0.0,1
+# Muestra 43/100 | Variación: IZQ=63.3 CENT=62.6 DER=0.0
+4.5,11.7,0.0,0.0,3.5,0.0,1
+# Muestra 44/100 | Variación: IZQ=0.0 CENT=3.5 DER=0.0
+68.7,69.2,0.0,64.2,57.5,0.0,1
+# Muestra 45/100 | Variación: IZQ=64.2 CENT=57.5 DER=0.0
+70.0,70.1,153.4,1.3,0.8,153.4,1
+# Muestra 46/100 | Variación: IZQ=1.3 CENT=0.8 DER=153.4
+20.3,36.9,0.0,49.7,33.2,153.4,1
+# Muestra 47/100 | Variación: IZQ=49.7 CENT=33.2 DER=153.4
+29.5,29.7,32.2,9.2,7.3,32.2,1
+# Muestra 48/100 | Variación: IZQ=9.2 CENT=7.3 DER=32.2
+67.8,70.4,0.0,38.3,40.7,32.2,1
+# Muestra 49/100 | Variación: IZQ=38.3 CENT=40.7 DER=32.2
+68.7,70.1,115.0,0.9,0.3,115.0,1
+# Muestra 50/100 | Variación: IZQ=0.9 CENT=0.3 DER=115.0
+38.4,50.5,0.0,30.3,19.6,115.0,1
+# Muestra 51/100 | Variación: IZQ=30.3 CENT=19.6 DER=115.0
+67.8,36.9,37.1,29.4,13.6,37.1,1
+# Muestra 52/100 | Variación: IZQ=29.4 CENT=13.6 DER=37.1
+72.6,68.8,0.0,4.8,31.9,37.1,1
+# Muestra 53/100 | Variación: IZQ=4.8 CENT=31.9 DER=37.1
+68.3,70.4,50.0,4.3,1.6,50.0,1
+# Muestra 54/100 | Variación: IZQ=4.3 CENT=1.6 DER=50.0
+29.3,122.6,0.0,39.0,52.2,50.0,1
+# Muestra 55/100 | Variación: IZQ=39.0 CENT=52.2 DER=50.0
+20.9,94.5,0.0,8.3,28.0,0.0,1
+# Muestra 56/100 | Variación: IZQ=8.3 CENT=28.0 DER=0.0
+29.3,57.1,0.0,8.3,37.5,0.0,1
+# Muestra 57/100 | Variación: IZQ=8.3 CENT=37.5 DER=0.0
+72.2,79.2,0.0,42.9,22.1,0.0,1
+# Muestra 58/100 | Variación: IZQ=42.9 CENT=22.1 DER=0.0
+71.8,76.1,0.0,0.4,3.1,0.0,1
+# Muestra 59/100 | Variación: IZQ=0.4 CENT=3.1 DER=0.0
+38.2,39.5,0.0,33.6,36.6,0.0,1
+# Muestra 60/100 | Variación: IZQ=33.6 CENT=36.6 DER=0.0
+16.1,137.9,0.0,22.1,98.4,0.0,1
+# Muestra 61/100 | Variación: IZQ=22.1 CENT=98.4 DER=0.0
+24.9,31.2,0.0,8.8,106.6,0.0,1
+# Muestra 62/100 | Variación: IZQ=8.8 CENT=106.6 DER=0.0
+70.4,79.2,36.4,45.5,48.0,36.4,1
+# Muestra 63/100 | Variación: IZQ=45.5 CENT=48.0 DER=36.4
+68.3,80.9,0.0,2.1,1.7,36.4,1
+# Muestra 64/100 | Variación: IZQ=2.1 CENT=1.7 DER=36.4
+16.4,13.5,16.5,51.9,67.4,16.5,1
+# Muestra 65/100 | Variación: IZQ=51.9 CENT=67.4 DER=16.5
+10.4,8.6,8.9,6.0,4.9,7.6,1
+# Muestra 66/100 | Variación: IZQ=6.0 CENT=4.9 DER=7.6
+72.3,73.0,7.3,61.9,64.4,1.6,1
+# Muestra 67/100 | Variación: IZQ=61.9 CENT=64.4 DER=1.6
+4.5,190.0,0.0,67.7,117.0,7.3,1
+# Muestra 68/100 | Variación: IZQ=67.7 CENT=117.0 DER=7.3
+4.9,3.7,4.4,0.3,186.3,4.4,1
+# Muestra 69/100 | Variación: IZQ=0.3 CENT=186.3 DER=4.4
+74.6,89.0,0.0,69.7,85.3,4.4,1
+# Muestra 70/100 | Variación: IZQ=69.7 CENT=85.3 DER=4.4
+16.7,15.9,15.2,57.8,73.1,15.2,1
+# Muestra 71/100 | Variación: IZQ=57.8 CENT=73.1 DER=15.2
+18.7,143.7,0.0,1.9,127.8,15.2,1
+# Muestra 72/100 | Variación: IZQ=1.9 CENT=127.8 DER=15.2
+18.4,18.2,21.7,0.3,125.5,21.7,1
+# Muestra 73/100 | Variación: IZQ=0.3 CENT=125.5 DER=21.7
+74.6,89.0,0.0,56.2,70.8,21.7,1
+# Muestra 74/100 | Variación: IZQ=56.2 CENT=70.8 DER=21.7
+74.6,18.5,18.2,0.0,70.5,18.2,1
+# Muestra 75/100 | Variación: IZQ=0.0 CENT=70.5 DER=18.2
+12.1,175.9,0.0,62.5,157.4,18.2,1
+# Muestra 76/100 | Variación: IZQ=62.5 CENT=157.4 DER=18.2
+10.4,61.9,0.0,1.7,114.0,0.0,1
+# Muestra 77/100 | Variación: IZQ=1.7 CENT=114.0 DER=0.0
+74.6,63.7,0.0,64.2,1.8,0.0,1
+# Muestra 78/100 | Variación: IZQ=64.2 CENT=1.8 DER=0.0
+74.6,65.8,0.0,0.0,2.1,0.0,1
+# Muestra 79/100 | Variación: IZQ=0.0 CENT=2.1 DER=0.0
+8.4,14.2,0.0,66.2,51.6,0.0,1
+# Muestra 80/100 | Variación: IZQ=66.2 CENT=51.6 DER=0.0
+8.7,12.8,0.0,0.4,1.4,0.0,1
+# Muestra 81/100 | Variación: IZQ=0.4 CENT=1.4 DER=0.0
+74.1,62.7,0.0,65.4,49.9,0.0,1
+# Muestra 82/100 | Variación: IZQ=65.4 CENT=49.9 DER=0.0
+74.1,66.7,0.0,0.0,3.9,0.0,1
+# Muestra 83/100 | Variación: IZQ=0.0 CENT=3.9 DER=0.0
+13.4,20.4,0.0,60.7,46.2,0.0,1
+# Muestra 84/100 | Variación: IZQ=60.7 CENT=46.2 DER=0.0
+11.0,18.2,0.0,2.4,2.2,0.0,1
+# Muestra 85/100 | Variación: IZQ=2.4 CENT=2.2 DER=0.0
+74.1,65.4,0.0,63.1,47.2,0.0,1
+# Muestra 86/100 | Variación: IZQ=63.1 CENT=47.2 DER=0.0
+73.3,67.1,15.6,0.8,1.7,15.6,1
+# Muestra 87/100 | Variación: IZQ=0.8 CENT=1.7 DER=15.6
+10.7,176.8,0.0,62.6,109.7,15.6,1
+# Muestra 88/100 | Variación: IZQ=62.6 CENT=109.7 DER=15.6
+74.1,38.3,13.5,63.4,138.5,13.5,1
+# Muestra 89/100 | Variación: IZQ=63.4 CENT=138.5 DER=13.5
+74.6,66.7,35.6,0.4,28.4,22.1,1
+# Muestra 90/100 | Variación: IZQ=0.4 CENT=28.4 DER=22.1
+27.8,6.7,0.0,46.8,60.0,35.6,1
+# Muestra 91/100 | Variación: IZQ=46.8 CENT=60.0 DER=35.6
+16.7,13.1,0.0,11.1,6.5,0.0,1
+# Muestra 92/100 | Variación: IZQ=11.1 CENT=6.5 DER=0.0
+74.1,65.0,0.0,57.4,51.9,0.0,1
+# Muestra 93/100 | Variación: IZQ=57.4 CENT=51.9 DER=0.0
+74.1,15.9,34.6,0.0,49.0,34.6,1
+# Muestra 94/100 | Variación: IZQ=0.0 CENT=49.0 DER=34.6
+68.6,39.4,0.0,5.6,23.5,34.6,1
+# Muestra 95/100 | Variación: IZQ=5.6 CENT=23.5 DER=34.6
+23.1,27.9,0.0,45.5,11.5,0.0,1
+# Muestra 96/100 | Variación: IZQ=45.5 CENT=11.5 DER=0.0
+73.3,67.1,0.0,50.2,39.2,0.0,1
+# Muestra 97/100 | Variación: IZQ=50.2 CENT=39.2 DER=0.0
+74.6,75.3,15.2,1.3,8.1,15.2,1
+# Muestra 98/100 | Variación: IZQ=1.3 CENT=8.1 DER=15.2
+16.1,15.9,0.0,58.5,59.3,15.2,1
+# Muestra 99/100 | Variación: IZQ=58.5 CENT=59.3 DER=15.2
+73.8,65.8,17.5,57.7,49.9,17.5,1
+# Muestra 100/100 | Variación: IZQ=57.7 CENT=49.9 DER=17.5
+# ✓ 100 muestras capturadas. Copia las líneas sin # a datos_oponente.txt
+# → Sesión iniciada. Mueve el oponente frente al robot.
+# Primera lectura tomada como referencia...
+74.2,100.2,0.0,0.0,0.1,0.0,1
+# Muestra 1/100 | Variación: IZQ=0.0 CENT=0.1 DER=0.0
+73.8,102.3,0.0,0.4,2.1,0.0,1
+# Muestra 2/100 | Variación: IZQ=0.4 CENT=2.1 DER=0.0
+74.2,72.2,0.0,0.4,30.1,0.0,1
+# Muestra 3/100 | Variación: IZQ=0.4 CENT=30.1 DER=0.0
+74.2,74.8,0.0,0.0,2.6,0.0,1
+# Muestra 4/100 | Variación: IZQ=0.0 CENT=2.6 DER=0.0
+15.8,154.9,0.0,58.4,80.1,0.0,1
+# Muestra 5/100 | Variación: IZQ=58.4 CENT=80.1 DER=0.0
+90.5,12.4,36.6,74.7,142.5,36.6,1
+# Muestra 6/100 | Variación: IZQ=74.7 CENT=142.5 DER=36.6
+74.6,68.4,0.0,15.8,56.0,36.6,1
+# Muestra 7/100 | Variación: IZQ=15.8 CENT=56.0 DER=36.6
+74.2,87.3,21.4,0.4,18.9,21.4,1
+# Muestra 8/100 | Variación: IZQ=0.4 CENT=18.9 DER=21.4
+16.1,150.5,0.0,58.1,63.2,21.4,1
+# Muestra 9/100 | Variación: IZQ=58.1 CENT=63.2 DER=21.4
+13.1,13.1,155.0,3.0,137.3,155.0,1
+# Muestra 10/100 | Variación: IZQ=3.0 CENT=137.3 DER=155.0
+74.2,150.8,0.0,61.1,137.7,155.0,1
+# Muestra 11/100 | Variación: IZQ=61.1 CENT=137.7 DER=155.0
+73.8,70.9,15.6,0.4,80.0,15.6,1
+# Muestra 12/100 | Variación: IZQ=0.4 CENT=80.0 DER=15.6
+14.7,179.0,0.0,59.0,108.1,15.6,1
+# Muestra 13/100 | Variación: IZQ=59.0 CENT=108.1 DER=15.6
+12.4,10.7,60.5,2.3,168.3,60.5,1
+# Muestra 14/100 | Variación: IZQ=2.3 CENT=168.3 DER=60.5
+73.8,72.2,0.0,61.4,61.5,60.5,1
+# Muestra 15/100 | Variación: IZQ=61.4 CENT=61.5 DER=60.5
+74.2,72.6,23.2,0.4,0.4,23.2,1
+# Muestra 16/100 | Variación: IZQ=0.4 CENT=0.4 DER=23.2
+23.4,176.0,0.0,50.8,103.3,23.2,1
+# Muestra 17/100 | Variación: IZQ=50.8 CENT=103.3 DER=23.2
+18.0,158.5,0.0,5.4,17.4,0.0,1
+# Muestra 18/100 | Variación: IZQ=5.4 CENT=17.4 DER=0.0
+73.8,73.5,26.1,55.8,85.1,26.1,1
+# Muestra 19/100 | Variación: IZQ=55.8 CENT=85.1 DER=26.1
+74.2,74.3,0.0,0.4,0.9,26.1,1
+# Muestra 20/100 | Variación: IZQ=0.4 CENT=0.9 DER=26.1
+17.0,14.9,15.2,57.2,59.5,15.2,1
+# Muestra 21/100 | Variación: IZQ=57.2 CENT=59.5 DER=15.2
+16.4,175.1,0.0,0.6,160.2,15.2,1
+# Muestra 22/100 | Variación: IZQ=0.6 CENT=160.2 DER=15.2
+73.8,13.8,16.6,57.4,161.3,16.6,1
+# Muestra 23/100 | Variación: IZQ=57.4 CENT=161.3 DER=16.6
+73.4,113.4,36.4,0.4,99.6,19.8,1
+# Muestra 24/100 | Variación: IZQ=0.4 CENT=99.6 DER=19.8
+73.8,71.8,30.4,0.4,41.7,6.0,1
+# Muestra 25/100 | Variación: IZQ=0.4 CENT=41.7 DER=6.0
+16.1,15.2,0.0,57.7,56.5,30.4,1
+# Muestra 26/100 | Variación: IZQ=57.7 CENT=56.5 DER=30.4
+29.3,132.7,0.0,13.2,117.5,0.0,1
+# Muestra 27/100 | Variación: IZQ=13.2 CENT=117.5 DER=0.0
+36.3,124.4,0.0,7.0,8.3,0.0,1
+# Muestra 28/100 | Variación: IZQ=7.0 CENT=8.3 DER=0.0
+20.0,132.7,0.0,16.3,8.3,0.0,1
+# Muestra 29/100 | Variación: IZQ=16.3 CENT=8.3 DER=0.0
+90.1,69.8,22.9,70.1,62.9,22.9,1
+# Muestra 30/100 | Variación: IZQ=70.1 CENT=62.9 DER=22.9
+82.8,78.4,72.9,7.3,8.6,49.9,1
+# Muestra 31/100 | Variación: IZQ=7.3 CENT=8.6 DER=49.9
+21.2,18.8,0.0,61.6,59.5,72.9,1
+# Muestra 32/100 | Variación: IZQ=61.6 CENT=59.5 DER=72.9
+36.3,109.2,0.0,15.1,90.4,0.0,1
+# Muestra 33/100 | Variación: IZQ=15.1 CENT=90.4 DER=0.0
+16.7,125.9,0.0,19.6,16.7,0.0,1
+# Muestra 34/100 | Variación: IZQ=19.6 CENT=16.7 DER=0.0
+90.1,71.5,0.0,73.3,54.4,0.0,1
+# Muestra 35/100 | Variación: IZQ=73.3 CENT=54.4 DER=0.0
+22.2,118.6,0.0,67.8,47.1,0.0,1
+# Muestra 36/100 | Variación: IZQ=67.8 CENT=47.1 DER=0.0
+80.2,15.2,71.2,57.9,103.3,71.2,1
+# Muestra 37/100 | Variación: IZQ=57.9 CENT=103.3 DER=71.2
+90.5,22.7,41.0,10.3,7.4,30.2,1
+# Muestra 38/100 | Variación: IZQ=10.3 CENT=7.4 DER=30.2
+50.2,111.4,0.0,40.2,88.7,41.0,1
+# Muestra 39/100 | Variación: IZQ=40.2 CENT=88.7 DER=41.0
+82.3,76.2,36.6,32.1,35.1,36.6,1
+# Muestra 40/100 | Variación: IZQ=32.1 CENT=35.1 DER=36.6
+90.9,25.0,0.0,8.6,51.2,36.6,1
+# Muestra 41/100 | Variación: IZQ=8.6 CENT=51.2 DER=36.6
+41.7,103.4,0.0,49.2,78.4,0.0,1
+# Muestra 42/100 | Variación: IZQ=49.2 CENT=78.4 DER=0.0
+75.4,43.3,76.6,33.7,60.1,76.6,1
+# Muestra 43/100 | Variación: IZQ=33.7 CENT=60.1 DER=76.6
+90.8,84.9,74.1,15.5,41.5,2.5,1
+# Muestra 44/100 | Variación: IZQ=15.5 CENT=41.5 DER=2.5
+24.6,178.2,0.0,66.3,93.3,74.1,1
+# Muestra 45/100 | Variación: IZQ=66.3 CENT=93.3 DER=74.1
+81.4,23.3,26.1,56.9,154.9,26.1,1
+# Muestra 46/100 | Variación: IZQ=56.9 CENT=154.9 DER=26.1
+90.5,133.7,53.8,9.0,110.4,27.7,1
+# Muestra 47/100 | Variación: IZQ=9.0 CENT=110.4 DER=27.7
+36.1,58.7,0.0,54.4,75.0,53.8,1
+# Muestra 48/100 | Variación: IZQ=54.4 CENT=75.0 DER=53.8
+38.9,56.9,0.0,2.8,1.7,0.0,1
+# Muestra 49/100 | Variación: IZQ=2.8 CENT=1.7 DER=0.0
+90.5,67.2,53.1,51.6,10.3,53.1,1
+# Muestra 50/100 | Variación: IZQ=51.6 CENT=10.3 DER=53.1
+83.2,77.2,38.2,7.3,9.9,14.9,1
+# Muestra 51/100 | Variación: IZQ=7.3 CENT=9.9 DER=14.9
+25.5,114.0,0.0,57.7,36.8,38.2,1
+# Muestra 52/100 | Variación: IZQ=57.7 CENT=36.8 DER=38.2
+16.1,15.6,20.1,9.4,98.4,20.1,1
+# Muestra 53/100 | Variación: IZQ=9.4 CENT=98.4 DER=20.1
+90.0,151.8,43.7,73.9,136.2,23.6,1
+# Muestra 54/100 | Variación: IZQ=73.9 CENT=136.2 DER=23.6
+11.7,10.3,14.9,78.3,141.5,28.8,1
+# Muestra 55/100 | Variación: IZQ=78.3 CENT=141.5 DER=28.8
+8.4,7.6,0.0,3.4,2.7,14.9,1
+# Muestra 56/100 | Variación: IZQ=3.4 CENT=2.7 DER=14.9
+90.5,71.5,0.0,82.1,63.8,0.0,1
+# Muestra 57/100 | Variación: IZQ=82.1 CENT=63.8 DER=0.0
+83.2,16.9,14.2,7.3,54.6,14.2,1
+# Muestra 58/100 | Variación: IZQ=7.3 CENT=54.6 DER=14.2
+9.0,153.3,0.0,74.1,136.4,14.2,1
+# Muestra 59/100 | Variación: IZQ=74.1 CENT=136.4 DER=14.2
+81.4,58.1,16.6,72.4,95.2,16.6,1
+# Muestra 60/100 | Variación: IZQ=72.4 CENT=95.2 DER=16.6
+90.5,68.9,0.0,9.0,10.9,16.6,1
+# Muestra 61/100 | Variación: IZQ=9.0 CENT=10.9 DER=16.6
+16.1,16.3,0.0,74.4,52.7,0.0,1
+# Muestra 62/100 | Variación: IZQ=74.4 CENT=52.7 DER=0.0
+74.6,84.9,0.0,58.5,68.7,0.0,1
+# Muestra 63/100 | Variación: IZQ=58.5 CENT=68.7 DER=0.0
+90.0,73.2,23.8,15.5,11.7,23.8,1
+# Muestra 64/100 | Variación: IZQ=15.5 CENT=11.7 DER=23.8
+81.4,57.2,15.9,8.6,16.0,7.9,1
+# Muestra 65/100 | Variación: IZQ=8.6 CENT=16.0 DER=7.9
+26.6,134.9,0.0,54.8,77.7,15.9,1
+# Muestra 66/100 | Variación: IZQ=54.8 CENT=77.7 DER=15.9
+90.4,58.2,61.8,63.8,76.7,61.8,1
+# Muestra 67/100 | Variación: IZQ=63.8 CENT=76.7 DER=61.8
+76.7,61.6,0.0,13.8,3.4,61.8,1
+# Muestra 68/100 | Variación: IZQ=13.8 CENT=3.4 DER=61.8
+22.8,17.9,22.3,53.8,43.7,22.3,1
+# Muestra 69/100 | Variación: IZQ=53.8 CENT=43.7 DER=22.3
+36.1,111.2,0.0,13.3,93.3,22.3,1
+# Muestra 70/100 | Variación: IZQ=13.3 CENT=93.3 DER=22.3
+81.9,46.6,42.6,45.8,64.6,42.6,1
+# Muestra 71/100 | Variación: IZQ=45.8 CENT=64.6 DER=42.6
+90.5,57.2,57.0,8.6,10.7,14.4,1
+# Muestra 72/100 | Variación: IZQ=8.6 CENT=10.7 DER=14.4
+31.9,44.5,0.0,58.6,12.7,57.0,1
+# Muestra 73/100 | Variación: IZQ=58.6 CENT=12.7 DER=57.0
+31.6,39.7,0.0,0.2,4.9,0.0,1
+# Muestra 74/100 | Variación: IZQ=0.2 CENT=4.9 DER=0.0
+91.3,71.9,56.9,59.7,32.2,56.9,1
+# Muestra 75/100 | Variación: IZQ=59.7 CENT=32.2 DER=56.9
+90.8,71.5,50.9,0.5,0.4,6.0,1
+# Muestra 76/100 | Variación: IZQ=0.5 CENT=0.4 DER=6.0
+40.3,56.8,0.0,50.6,14.7,50.9,1
+# Muestra 77/100 | Variación: IZQ=50.6 CENT=14.7 DER=50.9
+82.7,50.8,68.5,42.4,6.0,68.5,1
+# Muestra 78/100 | Variación: IZQ=42.4 CENT=6.0 DER=68.5
+81.4,57.2,48.5,1.3,6.4,20.1,1
+# Muestra 79/100 | Variación: IZQ=1.3 CENT=6.4 DER=20.1
+45.1,52.5,0.0,36.4,4.7,48.5,1
+# Muestra 80/100 | Variación: IZQ=36.4 CENT=4.7 DER=48.5
+24.9,137.5,0.0,20.2,85.0,0.0,1
+# Muestra 81/100 | Variación: IZQ=20.2 CENT=85.0 DER=0.0
+90.0,63.7,0.0,65.1,73.8,0.0,1
+# Muestra 82/100 | Variación: IZQ=65.1 CENT=73.8 DER=0.0
+82.3,89.1,0.0,7.7,25.3,0.0,1
+# Muestra 83/100 | Variación: IZQ=7.7 CENT=25.3 DER=0.0
+80.2,16.3,0.0,2.1,72.8,0.0,1
+# Muestra 84/100 | Variación: IZQ=2.1 CENT=72.8 DER=0.0
+81.9,69.7,0.0,1.7,53.4,0.0,1
+# Muestra 85/100 | Variación: IZQ=1.7 CENT=53.4 DER=0.0
+17.7,17.5,19.1,64.2,52.1,19.1,1
+# Muestra 86/100 | Variación: IZQ=64.2 CENT=52.1 DER=19.1
+82.7,57.2,0.0,65.0,39.7,19.1,1
+# Muestra 87/100 | Variación: IZQ=65.0 CENT=39.7 DER=19.1
+90.4,73.2,23.2,7.7,16.0,23.2,1
+# Muestra 88/100 | Variación: IZQ=7.7 CENT=16.0 DER=23.2
+75.4,70.9,0.0,15.0,2.3,23.2,1
+# Muestra 89/100 | Variación: IZQ=15.0 CENT=2.3 DER=23.2
+32.2,94.2,0.0,43.2,23.3,0.0,1
+# Muestra 90/100 | Variación: IZQ=43.2 CENT=23.3 DER=0.0
+81.0,79.7,58.0,48.8,14.5,58.0,1
+# Muestra 91/100 | Variación: IZQ=48.8 CENT=14.5 DER=58.0
+76.2,62.0,42.8,4.8,17.7,15.2,1
+# Muestra 92/100 | Variación: IZQ=4.8 CENT=17.7 DER=15.2
+44.1,47.2,0.0,32.2,14.9,42.8,1
+# Muestra 93/100 | Variación: IZQ=32.2 CENT=14.9 DER=42.8
+35.6,42.7,0.0,8.5,4.5,0.0,1
+# Muestra 94/100 | Variación: IZQ=8.5 CENT=4.5 DER=0.0
+74.1,88.2,53.0,38.6,45.5,53.0,1
+# Muestra 95/100 | Variación: IZQ=38.6 CENT=45.5 DER=53.0
+74.1,87.4,137.6,0.0,0.8,84.6,1
+# Muestra 96/100 | Variación: IZQ=0.0 CENT=0.8 DER=84.6
+20.3,23.8,0.0,53.9,63.5,137.6,1
+# Muestra 97/100 | Variación: IZQ=53.9 CENT=63.5 DER=137.6
+16.1,99.3,0.0,4.2,75.5,0.0,1
+# Muestra 98/100 | Variación: IZQ=4.2 CENT=75.5 DER=0.0
+16.1,15.6,0.0,0.0,83.7,0.0,1
+# Muestra 99/100 | Variación: IZQ=0.0 CENT=83.7 DER=0.0
+74.5,87.0,0.0,58.4,71.4,0.0,1
+# Muestra 100/100 | Variación: IZQ=58.4 CENT=71.4 DER=0.0
+# ✓ 100 muestras capturadas. Copia las líneas sin # a datos_oponente.txt
+# → Sesión iniciada. Mueve el oponente frente al robot.
+# Primera lectura tomada como referencia...
+91.4,26.2,25.0,0.0,0.0,0.0,1
+# Muestra 1/100 | Variación: IZQ=0.0 CENT=0.0 DER=0.0
+91.4,26.2,25.0,0.0,0.0,0.0,1
+# Muestra 2/100 | Variación: IZQ=0.0 CENT=0.0 DER=0.0
+75.5,25.3,25.3,15.9,0.9,0.3,1
+# Muestra 3/100 | Variación: IZQ=15.9 CENT=0.9 DER=0.3
+91.0,25.9,26.1,15.5,0.6,0.9,1
+# Muestra 4/100 | Variación: IZQ=15.5 CENT=0.6 DER=0.9
+91.8,24.7,24.1,0.8,1.2,2.0,1
+# Muestra 5/100 | Variación: IZQ=0.8 CENT=1.2 DER=2.0
+91.0,70.6,23.5,0.8,45.9,0.6,1
+# Muestra 6/100 | Variación: IZQ=0.8 CENT=45.9 DER=0.6
+91.8,59.6,53.3,0.8,10.9,29.8,1
+# Muestra 7/100 | Variación: IZQ=0.8 CENT=10.9 DER=29.8
+89.7,43.7,37.3,2.2,15.9,16.0,1
+# Muestra 8/100 | Variación: IZQ=2.2 CENT=15.9 DER=16.0
+14.7,13.1,14.2,74.9,30.6,23.1,1
+# Muestra 9/100 | Variación: IZQ=74.9 CENT=30.6 DER=23.1
+90.9,70.6,51.9,76.2,57.4,37.8,1
+# Muestra 10/100 | Variación: IZQ=76.2 CENT=57.4 DER=37.8
+75.0,57.2,30.9,15.9,13.3,21.0,1
+# Muestra 11/100 | Variación: IZQ=15.9 CENT=13.3 DER=21.0
+90.6,71.0,17.2,15.5,13.8,13.7,1
+# Muestra 12/100 | Variación: IZQ=15.5 CENT=13.8 DER=13.7
+75.0,66.3,50.4,15.5,4.8,33.2,1
+# Muestra 13/100 | Variación: IZQ=15.5 CENT=4.8 DER=33.2
+72.4,21.4,18.5,2.6,44.8,31.9,1
+# Muestra 14/100 | Variación: IZQ=2.6 CENT=44.8 DER=31.9
+90.5,43.3,37.5,18.1,21.9,19.1,1
+# Muestra 15/100 | Variación: IZQ=18.1 CENT=21.9 DER=19.1
+90.9,60.2,57.0,0.4,16.9,19.4,1
+# Muestra 16/100 | Variación: IZQ=0.4 CENT=16.9 DER=19.4
+24.6,23.6,26.7,66.3,36.6,30.3,1
+# Muestra 17/100 | Variación: IZQ=66.3 CENT=36.6 DER=30.3
+14.4,14.5,0.0,10.2,9.0,26.7,1
+# Muestra 18/100 | Variación: IZQ=10.2 CENT=9.0 DER=26.7
+41.4,51.8,0.0,27.0,37.3,0.0,1
+# Muestra 19/100 | Variación: IZQ=27.0 CENT=37.3 DER=0.0
+15.4,22.7,0.0,26.0,29.2,0.0,1
+# Muestra 20/100 | Variación: IZQ=26.0 CENT=29.2 DER=0.0
+9.4,22.7,0.0,6.0,0.0,0.0,1
+# Muestra 21/100 | Variación: IZQ=6.0 CENT=0.0 DER=0.0
+9.0,16.9,0.0,0.3,5.8,0.0,1
+# Muestra 22/100 | Variación: IZQ=0.3 CENT=5.8 DER=0.0
+9.4,15.9,0.0,0.3,1.0,0.0,1
+# Muestra 23/100 | Variación: IZQ=0.3 CENT=1.0 DER=0.0
+21.2,177.5,0.0,11.9,161.5,0.0,1
+# Muestra 24/100 | Variación: IZQ=11.9 CENT=161.5 DER=0.0
+32.7,41.5,0.0,11.4,135.9,0.0,1
+# Muestra 25/100 | Variación: IZQ=11.4 CENT=135.9 DER=0.0
+26.6,182.9,0.0,6.0,141.3,0.0,1
+# Muestra 26/100 | Variación: IZQ=6.0 CENT=141.3 DER=0.0
+29.8,36.7,0.0,3.2,146.2,0.0,1
+# Muestra 27/100 | Variación: IZQ=3.2 CENT=146.2 DER=0.0
+26.1,167.0,0.0,3.7,130.3,0.0,1
+# Muestra 28/100 | Variación: IZQ=3.7 CENT=130.3 DER=0.0
+16.4,20.8,0.0,9.6,146.2,0.0,1
+# Muestra 29/100 | Variación: IZQ=9.6 CENT=146.2 DER=0.0
+16.1,27.6,0.0,0.3,6.9,0.0,1
+# Muestra 30/100 | Variación: IZQ=0.3 CENT=6.9 DER=0.0
+148.8,78.6,0.0,132.7,50.9,0.0,1
+# Muestra 31/100 | Variación: IZQ=132.7 CENT=50.9 DER=0.0
+14.7,17.2,0.0,134.1,61.3,0.0,1
+# Muestra 32/100 | Variación: IZQ=134.1 CENT=61.3 DER=0.0
+43.3,37.1,0.0,28.5,19.9,0.0,1
+# Muestra 33/100 | Variación: IZQ=28.5 CENT=19.9 DER=0.0
+24.6,24.7,36.6,18.7,12.4,36.6,1
+# Muestra 34/100 | Variación: IZQ=18.7 CENT=12.4 DER=36.6
+37.7,34.9,48.3,13.1,10.2,11.7,1
+# Muestra 35/100 | Variación: IZQ=13.1 CENT=10.2 DER=11.7
+91.3,56.8,12.4,53.6,22.0,35.9,1
+# Muestra 36/100 | Variación: IZQ=53.6 CENT=22.0 DER=35.9
+90.9,71.4,0.0,0.4,14.6,12.4,1
+# Muestra 37/100 | Variación: IZQ=0.4 CENT=14.6 DER=12.4
+74.6,68.0,0.0,16.4,3.4,0.0,1
+# Muestra 38/100 | Variación: IZQ=16.4 CENT=3.4 DER=0.0
+90.9,70.6,0.0,16.3,2.6,0.0,1
+# Muestra 39/100 | Variación: IZQ=16.3 CENT=2.6 DER=0.0
+90.9,69.7,43.3,0.0,0.9,43.3,1
+# Muestra 40/100 | Variación: IZQ=0.0 CENT=0.9 DER=43.3
+91.8,69.7,0.0,0.8,0.0,43.3,1
+# Muestra 41/100 | Variación: IZQ=0.8 CENT=0.0 DER=43.3
+91.8,40.9,33.0,0.0,28.8,33.0,1
+# Muestra 42/100 | Variación: IZQ=0.0 CENT=28.8 DER=33.0
+90.9,17.5,13.1,0.8,23.3,19.9,1
+# Muestra 43/100 | Variación: IZQ=0.8 CENT=23.3 DER=19.9
+91.3,39.9,30.4,0.4,22.4,17.3,1
+# Muestra 44/100 | Variación: IZQ=0.4 CENT=22.4 DER=17.3
+54.4,51.3,50.2,36.9,11.4,19.8,1
+# Muestra 45/100 | Variación: IZQ=36.9 CENT=11.4 DER=19.8
+27.2,23.3,26.7,27.2,28.1,23.5,1
+# Muestra 46/100 | Variación: IZQ=27.2 CENT=28.1 DER=23.5
+7.4,25.9,0.0,19.8,2.6,26.7,1
+# Muestra 47/100 | Variación: IZQ=19.8 CENT=2.6 DER=26.7
+48.9,38.5,0.0,41.5,12.6,0.0,1
+# Muestra 48/100 | Variación: IZQ=41.5 CENT=12.6 DER=0.0
+33.2,34.1,0.0,15.7,4.4,0.0,1
+# Muestra 49/100 | Variación: IZQ=15.7 CENT=4.4 DER=0.0
+10.0,10.7,17.5,23.2,23.4,17.5,1
+# Muestra 50/100 | Variación: IZQ=23.2 CENT=23.4 DER=17.5
+17.7,28.2,0.0,7.7,17.5,17.5,1
+# Muestra 51/100 | Variación: IZQ=7.7 CENT=17.5 DER=17.5
+23.4,166.2,0.0,5.7,138.0,0.0,1
+# Muestra 52/100 | Variación: IZQ=5.7 CENT=138.0 DER=0.0
+4.9,62.0,0.0,18.6,104.1,0.0,1
+# Muestra 53/100 | Variación: IZQ=18.6 CENT=104.1 DER=0.0
+16.1,24.7,0.0,11.2,37.3,0.0,1
+# Muestra 54/100 | Variación: IZQ=11.2 CENT=37.3 DER=0.0
+39.8,42.2,0.0,23.7,17.5,0.0,1
+# Muestra 55/100 | Variación: IZQ=23.7 CENT=17.5 DER=0.0
+20.9,20.1,52.1,18.9,22.1,52.1,1
+# Muestra 56/100 | Variación: IZQ=18.9 CENT=22.1 DER=52.1
+106.9,8.9,59.5,86.0,11.2,7.4,1
+# Muestra 57/100 | Variación: IZQ=86.0 CENT=11.2 DER=7.4
+101.7,39.7,36.4,5.2,30.7,23.1,1
+# Muestra 58/100 | Variación: IZQ=5.2 CENT=30.7 DER=23.1
+101.3,57.0,59.8,0.4,17.3,23.4,1
+# Muestra 59/100 | Variación: IZQ=0.4 CENT=17.3 DER=23.4
+102.1,57.1,32.2,0.8,0.1,27.6,1
+# Muestra 60/100 | Variación: IZQ=0.8 CENT=0.1 DER=27.6
+101.7,11.7,10.0,0.4,45.3,22.2,1
+# Muestra 61/100 | Variación: IZQ=0.4 CENT=45.3 DER=22.2
+101.7,38.1,26.1,0.0,26.3,16.2,1
+# Muestra 62/100 | Variación: IZQ=0.0 CENT=26.3 DER=16.2
+48.9,47.2,49.1,52.7,9.1,22.9,1
+# Muestra 63/100 | Variación: IZQ=52.7 CENT=9.1 DER=22.9
+18.0,17.9,27.6,30.9,29.3,21.5,1
+# Muestra 64/100 | Variación: IZQ=30.9 CENT=29.3 DER=21.5
+12.1,12.4,15.9,6.0,5.4,11.6,1
+# Muestra 65/100 | Variación: IZQ=6.0 CENT=5.4 DER=11.6
+26.3,105.3,0.0,14.3,92.9,15.9,1
+# Muestra 66/100 | Variación: IZQ=14.3 CENT=92.9 DER=15.9
+22.2,181.7,0.0,4.1,76.3,0.0,1
+# Muestra 67/100 | Variación: IZQ=4.1 CENT=76.3 DER=0.0
+3.9,6.3,0.0,18.3,175.4,0.0,1
+# Muestra 68/100 | Variación: IZQ=18.3 CENT=175.4 DER=0.0
+21.6,26.2,0.0,17.7,19.9,0.0,1
+# Muestra 69/100 | Variación: IZQ=17.7 CENT=19.9 DER=0.0
+28.7,31.0,0.0,7.1,4.8,0.0,1
+# Muestra 70/100 | Variación: IZQ=7.1 CENT=4.8 DER=0.0
+9.4,9.6,14.9,19.3,21.3,14.9,1
+# Muestra 71/100 | Variación: IZQ=19.3 CENT=21.3 DER=14.9
+17.4,13.1,16.6,8.0,3.5,1.7,1
+# Muestra 72/100 | Variación: IZQ=8.0 CENT=3.5 DER=1.7
+95.0,57.0,53.6,77.6,43.8,37.1,1
+# Muestra 73/100 | Variación: IZQ=77.6 CENT=43.8 DER=37.1
+95.0,80.2,164.0,0.0,23.2,110.3,1
+# Muestra 74/100 | Variación: IZQ=0.0 CENT=23.2 DER=110.3
+95.9,112.6,122.0,0.9,32.4,42.0,1
+# Muestra 75/100 | Variación: IZQ=0.9 CENT=32.4 DER=42.0
+84.1,9.3,51.2,11.8,103.3,70.8,1
+# Muestra 76/100 | Variación: IZQ=11.8 CENT=103.3 DER=70.8
+104.1,58.2,22.6,20.1,48.9,28.6,1
+# Muestra 77/100 | Variación: IZQ=20.1 CENT=48.9 DER=28.6
+104.6,48.0,45.7,0.4,10.2,23.0,1
+# Muestra 78/100 | Variación: IZQ=0.4 CENT=10.2 DER=23.0
+20.0,19.8,63.2,84.6,28.2,17.5,1
+# Muestra 79/100 | Variación: IZQ=84.6 CENT=28.2 DER=17.5
+16.7,13.8,16.2,3.2,6.0,47.0,1
+# Muestra 80/100 | Variación: IZQ=3.2 CENT=6.0 DER=47.0
+28.4,36.7,0.0,11.7,22.8,16.2,1
+# Muestra 81/100 | Variación: IZQ=11.7 CENT=22.8 DER=16.2
+18.4,57.1,0.0,10.0,20.4,0.0,1
+# Muestra 82/100 | Variación: IZQ=10.0 CENT=20.4 DER=0.0
+18.0,6.3,0.0,0.3,50.8,0.0,1
+# Muestra 83/100 | Variación: IZQ=0.3 CENT=50.8 DER=0.0
+73.1,70.3,40.8,55.1,64.0,40.8,1
+# Muestra 84/100 | Variación: IZQ=55.1 CENT=64.0 DER=40.8
+72.7,12.8,12.8,0.4,57.5,28.0,1
+# Muestra 85/100 | Variación: IZQ=0.4 CENT=57.5 DER=28.0
+72.7,14.5,13.1,0.0,1.7,0.4,1
+# Muestra 86/100 | Variación: IZQ=0.0 CENT=1.7 DER=0.4
+89.2,11.7,11.4,16.5,2.8,1.7,1
+# Muestra 87/100 | Variación: IZQ=16.5 CENT=2.8 DER=1.7
+73.1,19.2,19.1,16.0,7.4,7.8,1
+# Muestra 88/100 | Variación: IZQ=16.0 CENT=7.4 DER=7.8
+72.7,34.6,29.0,0.4,15.5,9.9,1
+# Muestra 89/100 | Variación: IZQ=0.4 CENT=15.5 DER=9.9
+13.1,10.0,15.9,59.6,24.6,13.1,1
+# Muestra 90/100 | Variación: IZQ=59.6 CENT=24.6 DER=13.1
+35.0,33.6,36.4,22.0,23.6,20.5,1
+# Muestra 91/100 | Variación: IZQ=22.0 CENT=23.6 DER=20.5
+11.0,12.8,0.0,24.0,20.8,36.4,1
+# Muestra 92/100 | Variación: IZQ=24.0 CENT=20.8 DER=36.4
+16.7,17.9,0.0,5.7,5.1,0.0,1
+# Muestra 93/100 | Variación: IZQ=5.7 CENT=5.1 DER=0.0
+60.7,35.1,32.7,44.0,17.3,32.7,1
+# Muestra 94/100 | Variación: IZQ=44.0 CENT=17.3 DER=32.7
+61.6,57.1,9.6,0.8,22.0,23.1,1
+# Muestra 95/100 | Variación: IZQ=0.8 CENT=22.0 DER=23.1
+61.2,57.1,37.5,0.4,0.0,27.9,1
+# Muestra 96/100 | Variación: IZQ=0.4 CENT=0.0 DER=27.9
+62.5,56.6,10.7,1.3,0.4,26.9,1
+# Muestra 97/100 | Variación: IZQ=1.3 CENT=0.4 DER=26.9
+61.6,57.1,30.1,0.9,0.4,19.5,1
+# Muestra 98/100 | Variación: IZQ=0.9 CENT=0.4 DER=19.5
+20.0,18.5,20.7,41.6,38.6,9.4,1
+# Muestra 99/100 | Variación: IZQ=41.6 CENT=38.6 DER=9.4
+23.1,23.5,0.0,3.2,5.0,20.7,1
+# Muestra 100/100 | Variación: IZQ=3.2 CENT=5.0 DER=20.7
+# ✓ 100 muestras capturadas. Copia las líneas sin # a datos_oponente.txt
+# → Sesión iniciada. Mueve el oponente frente al robot.
+# Primera lectura tomada como referencia...
+71.1,64.7,0.0,0.0,0.4,0.0,1
+# Muestra 1/100 | Variación: IZQ=0.0 CENT=0.4 DER=0.0
+71.1,64.7,0.0,0.0,0.0,0.0,1
+# Muestra 2/100 | Variación: IZQ=0.0 CENT=0.0 DER=0.0
+71.1,64.3,0.0,0.0,0.4,0.0,1
+# Muestra 3/100 | Variación: IZQ=0.0 CENT=0.4 DER=0.0
+71.5,64.3,0.0,0.4,0.0,0.0,1
+# Muestra 4/100 | Variación: IZQ=0.4 CENT=0.0 DER=0.0
+71.5,64.3,0.0,0.0,0.0,0.0,1
+# Muestra 5/100 | Variación: IZQ=0.0 CENT=0.0 DER=0.0
+70.2,38.3,29.6,1.3,26.0,29.6,1
+# Muestra 6/100 | Variación: IZQ=1.3 CENT=26.0 DER=29.6
+8.4,5.7,0.0,61.9,32.6,29.6,1
+# Muestra 7/100 | Variación: IZQ=61.9 CENT=32.6 DER=29.6
+77.0,58.4,0.0,68.7,52.7,0.0,1
+# Muestra 8/100 | Variación: IZQ=68.7 CENT=52.7 DER=0.0
+70.6,39.7,33.5,6.4,18.7,33.5,1
+# Muestra 9/100 | Variación: IZQ=6.4 CENT=18.7 DER=33.5
+8.4,8.6,0.0,62.3,31.1,33.5,1
+# Muestra 10/100 | Variación: IZQ=62.3 CENT=31.1 DER=33.5
+71.4,63.9,0.0,63.1,55.3,0.0,1
+# Muestra 11/100 | Variación: IZQ=63.1 CENT=55.3 DER=0.0
+76.6,59.6,13.5,5.1,4.3,13.5,1
+# Muestra 12/100 | Variación: IZQ=5.1 CENT=4.3 DER=13.5
+71.4,63.9,9.3,5.1,4.2,4.2,1
+# Muestra 13/100 | Variación: IZQ=5.1 CENT=4.2 DER=4.2
+70.5,66.1,0.0,0.9,2.3,9.3,1
+# Muestra 14/100 | Variación: IZQ=0.9 CENT=2.3 DER=9.3
+22.5,38.5,0.0,48.0,27.6,0.0,1
+# Muestra 15/100 | Variación: IZQ=48.0 CENT=27.6 DER=0.0
+30.3,106.7,60.4,7.8,68.2,60.4,1
+# Muestra 16/100 | Variación: IZQ=7.8 CENT=68.2 DER=60.4
+3.9,58.9,0.0,26.4,47.7,60.4,1
+# Muestra 17/100 | Variación: IZQ=26.4 CENT=47.7 DER=60.4
+31.9,77.9,0.0,28.0,18.9,0.0,1
+# Muestra 18/100 | Variación: IZQ=28.0 CENT=18.9 DER=0.0
+43.0,94.0,0.0,11.2,16.2,0.0,1
+# Muestra 19/100 | Variación: IZQ=11.2 CENT=16.2 DER=0.0
+17.7,22.4,0.0,25.3,71.7,0.0,1
+# Muestra 20/100 | Variación: IZQ=25.3 CENT=71.7 DER=0.0
+23.4,46.5,0.0,5.7,24.2,0.0,1
+# Muestra 21/100 | Variación: IZQ=5.7 CENT=24.2 DER=0.0
+38.2,43.3,0.0,14.7,3.2,0.0,1
+# Muestra 22/100 | Variación: IZQ=14.7 CENT=3.2 DER=0.0
+70.5,30.2,28.5,32.3,13.2,28.5,1
+# Muestra 23/100 | Variación: IZQ=32.3 CENT=13.2 DER=28.5
+71.3,71.1,17.8,0.8,40.9,10.6,1
+# Muestra 24/100 | Variación: IZQ=0.8 CENT=40.9 DER=10.6
+33.7,50.7,0.0,37.6,20.5,17.8,1
+# Muestra 25/100 | Variación: IZQ=37.6 CENT=20.5 DER=17.8
+27.5,30.4,0.0,6.2,20.2,0.0,1
+# Muestra 26/100 | Variación: IZQ=6.2 CENT=20.2 DER=0.0
+77.5,7.0,7.6,50.0,23.5,7.6,1
+# Muestra 27/100 | Variación: IZQ=50.0 CENT=23.5 DER=7.6
+41.4,69.2,0.0,36.0,62.3,7.6,1
+# Muestra 28/100 | Variación: IZQ=36.0 CENT=62.3 DER=7.6
+32.2,38.1,0.0,9.3,31.2,0.0,1
+# Muestra 29/100 | Variación: IZQ=9.3 CENT=31.2 DER=0.0
+9.7,50.0,0.0,22.4,11.9,0.0,1
+# Muestra 30/100 | Variación: IZQ=22.4 CENT=11.9 DER=0.0
+37.0,72.3,0.0,27.3,22.3,0.0,1
+# Muestra 31/100 | Variación: IZQ=27.3 CENT=22.3 DER=0.0
+54.5,57.8,0.0,17.5,14.5,0.0,1
+# Muestra 32/100 | Variación: IZQ=17.5 CENT=14.5 DER=0.0
+18.4,19.8,0.0,36.2,38.0,0.0,1
+# Muestra 33/100 | Variación: IZQ=36.2 CENT=38.0 DER=0.0
+24.9,27.0,0.0,6.5,7.3,0.0,1
+# Muestra 34/100 | Variación: IZQ=6.5 CENT=7.3 DER=0.0
+40.5,59.1,0.0,15.6,32.0,0.0,1
+# Muestra 35/100 | Variación: IZQ=15.6 CENT=32.0 DER=0.0
+71.1,29.7,29.9,30.6,29.4,29.9,1
+# Muestra 36/100 | Variación: IZQ=30.6 CENT=29.4 DER=29.9
+70.2,62.2,6.0,0.8,32.5,23.9,1
+# Muestra 37/100 | Variación: IZQ=0.8 CENT=32.5 DER=23.9
+56.7,34.1,0.0,13.5,28.1,6.0,1
+# Muestra 38/100 | Variación: IZQ=13.5 CENT=28.1 DER=6.0
+38.2,93.3,0.0,18.6,59.2,0.0,1
+# Muestra 39/100 | Variación: IZQ=18.6 CENT=59.2 DER=0.0
+19.3,18.5,22.0,18.9,74.8,22.0,1
+# Muestra 40/100 | Variación: IZQ=18.9 CENT=74.8 DER=22.0
+16.1,14.5,15.6,3.2,4.0,6.4,1
+# Muestra 41/100 | Variación: IZQ=3.2 CENT=4.0 DER=6.4
+17.1,14.2,15.2,1.0,0.3,0.4,1
+# Muestra 42/100 | Variación: IZQ=1.0 CENT=0.3 DER=0.4
+21.9,21.5,0.0,4.8,7.3,15.2,1
+# Muestra 43/100 | Variación: IZQ=4.8 CENT=7.3 DER=15.2
+43.0,44.7,0.0,21.2,23.3,0.0,1
+# Muestra 44/100 | Variación: IZQ=21.2 CENT=23.3 DER=0.0
+20.0,17.2,18.5,23.1,27.5,18.5,1
+# Muestra 45/100 | Variación: IZQ=23.1 CENT=27.5 DER=18.5
+36.1,83.0,0.0,16.1,65.8,18.5,1
+# Muestra 46/100 | Variación: IZQ=16.1 CENT=65.8 DER=18.5
+16.4,13.8,86.5,19.7,69.1,86.5,1
+# Muestra 47/100 | Variación: IZQ=19.7 CENT=69.1 DER=86.5
+27.2,116.8,0.0,10.8,102.9,86.5,1
+# Muestra 48/100 | Variación: IZQ=10.8 CENT=102.9 DER=86.5
+3.3,6.6,0.0,24.0,110.1,0.0,1
+# Muestra 49/100 | Variación: IZQ=24.0 CENT=110.1 DER=0.0
+31.1,103.7,0.0,27.9,97.0,0.0,1
+# Muestra 50/100 | Variación: IZQ=27.9 CENT=97.0 DER=0.0
+16.4,18.2,0.0,14.7,85.5,0.0,1
+# Muestra 51/100 | Variación: IZQ=14.7 CENT=85.5 DER=0.0
+25.5,31.0,0.0,9.0,12.8,0.0,1
+# Muestra 52/100 | Variación: IZQ=9.0 CENT=12.8 DER=0.0
+16.1,15.6,0.0,9.4,15.4,0.0,1
+# Muestra 53/100 | Variación: IZQ=9.4 CENT=15.4 DER=0.0
+29.3,21.7,23.2,13.2,6.1,23.2,1
+# Muestra 54/100 | Variación: IZQ=13.2 CENT=6.1 DER=23.2
+100.4,57.7,54.5,71.1,35.9,31.3,1
+# Muestra 55/100 | Variación: IZQ=71.1 CENT=35.9 DER=31.3
+71.0,16.3,14.2,29.4,41.4,40.3,1
+# Muestra 56/100 | Variación: IZQ=29.4 CENT=41.4 DER=40.3
+100.5,85.7,16.9,29.5,69.4,2.7,1
+# Muestra 57/100 | Variación: IZQ=29.5 CENT=69.4 DER=2.7
+101.3,58.6,93.6,0.8,27.0,76.7,1
+# Muestra 58/100 | Variación: IZQ=0.8 CENT=27.0 DER=76.7
+88.5,68.4,128.8,12.8,9.8,35.2,1
+# Muestra 59/100 | Variación: IZQ=12.8 CENT=9.8 DER=35.2
+88.5,57.8,10.3,0.0,10.6,118.5,1
+# Muestra 60/100 | Variación: IZQ=0.0 CENT=10.6 DER=118.5
+59.7,53.5,0.0,28.8,4.3,10.3,1
+# Muestra 61/100 | Variación: IZQ=28.8 CENT=4.3 DER=10.3
+65.6,50.3,0.0,5.8,3.2,0.0,1
+# Muestra 62/100 | Variación: IZQ=5.8 CENT=3.2 DER=0.0
+63.9,23.0,18.5,1.7,27.4,18.5,1
+# Muestra 63/100 | Variación: IZQ=1.7 CENT=27.4 DER=18.5
+16.4,14.9,16.2,47.5,8.1,2.2,1
+# Muestra 64/100 | Variación: IZQ=47.5 CENT=8.1 DER=2.2
+39.3,38.8,104.8,22.9,23.9,88.6,1
+# Muestra 65/100 | Variación: IZQ=22.9 CENT=23.9 DER=88.6
+5.2,7.0,167.6,34.2,31.8,62.8,1
+# Muestra 66/100 | Variación: IZQ=34.2 CENT=31.8 DER=62.8
+23.7,29.9,0.0,18.5,22.9,167.6,1
+# Muestra 67/100 | Variación: IZQ=18.5 CENT=22.9 DER=167.6
+16.4,16.3,0.0,7.3,13.6,0.0,1
+# Muestra 68/100 | Variación: IZQ=7.3 CENT=13.6 DER=0.0
+63.2,182.2,56.9,46.8,166.0,56.9,1
+# Muestra 69/100 | Variación: IZQ=46.8 CENT=166.0 DER=56.9
+40.3,41.3,57.0,22.9,140.9,0.1,1
+# Muestra 70/100 | Variación: IZQ=22.9 CENT=140.9 DER=0.1
+9.4,13.1,57.0,30.9,28.2,0.0,1
+# Muestra 71/100 | Variación: IZQ=30.9 CENT=28.2 DER=0.0
+95.9,37.4,41.7,86.5,24.2,15.3,1
+# Muestra 72/100 | Variación: IZQ=86.5 CENT=24.2 DER=15.3
+13.7,11.4,13.5,82.1,26.0,28.2,1
+# Muestra 73/100 | Variación: IZQ=82.1 CENT=26.0 DER=28.2
+155.8,43.3,40.1,142.1,32.0,26.6,1
+# Muestra 74/100 | Variación: IZQ=142.1 CENT=32.0 DER=26.6
+154.5,8.3,5.7,1.3,35.1,34.4,1
+# Muestra 75/100 | Variación: IZQ=1.3 CENT=35.1 DER=34.4
+153.7,181.3,32.7,0.9,173.1,27.1,1
+# Muestra 76/100 | Variación: IZQ=0.9 CENT=173.1 DER=27.1
+154.9,135.3,104.0,1.3,46.0,71.3,1
+# Muestra 77/100 | Variación: IZQ=1.3 CENT=46.0 DER=71.3
+42.1,39.0,39.4,112.8,96.3,64.6,1
+# Muestra 78/100 | Variación: IZQ=112.8 CENT=96.3 DER=64.6
+16.4,7.3,41.9,25.7,31.7,2.5,1
+# Muestra 79/100 | Variación: IZQ=25.7 CENT=31.7 DER=2.5
+33.2,35.1,77.4,16.8,27.8,35.4,1
+# Muestra 80/100 | Variación: IZQ=16.8 CENT=27.8 DER=35.4
+3.6,11.0,53.6,29.6,24.1,23.7,1
+# Muestra 81/100 | Variación: IZQ=29.6 CENT=24.1 DER=23.7
+24.9,121.4,57.0,21.3,110.4,3.3,1
+# Muestra 82/100 | Variación: IZQ=21.3 CENT=110.4 DER=3.3
+16.7,77.1,52.8,8.1,44.4,4.2,1
+# Muestra 83/100 | Variación: IZQ=8.1 CENT=44.4 DER=4.2
+12.4,19.2,59.1,4.4,57.9,6.3,1
+# Muestra 84/100 | Variación: IZQ=4.4 CENT=57.9 DER=6.3
+35.0,34.9,38.7,22.7,15.7,20.4,1
+# Muestra 85/100 | Variación: IZQ=22.7 CENT=15.7 DER=20.4
+16.1,10.7,11.4,18.9,24.2,27.3,1
+# Muestra 86/100 | Variación: IZQ=18.9 CENT=24.2 DER=27.3
+178.9,33.1,33.5,162.8,22.4,22.1,1
+# Muestra 87/100 | Variación: IZQ=162.8 CENT=22.4 DER=22.1
+230.8,125.0,6.0,51.8,91.9,27.5,1
+# Muestra 88/100 | Variación: IZQ=51.8 CENT=91.9 DER=27.5
+170.8,37.6,57.0,60.0,87.4,51.0,1
+# Muestra 89/100 | Variación: IZQ=60.0 CENT=87.4 DER=51.0
+14.1,9.6,10.7,156.7,28.0,46.3,1
+# Muestra 90/100 | Variación: IZQ=156.7 CENT=28.0 DER=46.3
+42.4,40.4,42.1,28.3,30.7,31.5,1
+# Muestra 91/100 | Variación: IZQ=28.3 CENT=30.7 DER=31.5
+146.5,18.5,52.8,104.2,21.8,10.7,1
+# Muestra 92/100 | Variación: IZQ=104.2 CENT=21.8 DER=10.7
+32.1,77.0,52.8,114.4,58.5,0.0,1
+# Muestra 93/100 | Variación: IZQ=114.4 CENT=58.5 DER=0.0
+11.7,57.0,62.3,20.4,20.0,9.6,1
+# Muestra 94/100 | Variación: IZQ=20.4 CENT=20.0 DER=9.6
+17.4,58.4,77.4,5.6,1.4,15.0,1
+# Muestra 95/100 | Variación: IZQ=5.6 CENT=1.4 DER=15.0
+29.8,54.1,27.9,12.4,4.3,49.5,1
+# Muestra 96/100 | Variación: IZQ=12.4 CENT=4.3 DER=49.5
+9.4,8.9,14.2,20.4,45.2,13.7,1
+# Muestra 97/100 | Variación: IZQ=20.4 CENT=45.2 DER=13.7
+28.7,26.2,30.4,19.3,17.3,16.2,1
+# Muestra 98/100 | Variación: IZQ=19.3 CENT=17.3 DER=16.2
+7.7,7.3,8.2,21.0,18.9,22.1,1
+# Muestra 99/100 | Variación: IZQ=21.0 CENT=18.9 DER=22.1
+80.0,54.9,69.1,72.3,47.6,60.9,1
+# Muestra 100/100 | Variación: IZQ=72.3 CENT=47.6 DER=60.9
+# ✓ 100 muestras capturadas. Copia las líneas sin # a datos_oponente.txt
+# → Sesión iniciada. Mueve el oponente frente al robot.
+# Primera lectura tomada como referencia...
+16.7,236.9,0.0,2.0,0.9,0.0,1
+# Muestra 1/100 | Variación: IZQ=2.0 CENT=0.9 DER=0.0
+16.1,236.4,0.0,0.7,0.4,0.0,1
+# Muestra 2/100 | Variación: IZQ=0.7 CENT=0.4 DER=0.0
+161.8,163.6,0.0,145.7,72.8,0.0,1
+# Muestra 3/100 | Variación: IZQ=145.7 CENT=72.8 DER=0.0
+161.8,162.7,0.0,0.0,0.9,0.0,1
+# Muestra 4/100 | Variación: IZQ=0.0 CENT=0.9 DER=0.0
+161.8,163.2,0.0,0.0,0.5,0.0,1
+# Muestra 5/100 | Variación: IZQ=0.0 CENT=0.5 DER=0.0
+161.8,163.2,0.0,0.0,0.0,0.0,1
+# Muestra 6/100 | Variación: IZQ=0.0 CENT=0.0 DER=0.0
+161.4,164.9,36.4,0.4,1.7,36.4,1
+# Muestra 7/100 | Variación: IZQ=0.4 CENT=1.7 DER=36.4
+161.8,162.3,15.6,0.4,2.6,20.8,1
+# Muestra 8/100 | Variación: IZQ=0.4 CENT=2.6 DER=20.8
+161.0,163.6,222.7,0.9,1.3,207.1,1
+# Muestra 9/100 | Variación: IZQ=0.9 CENT=1.3 DER=207.1
+3.6,7.3,0.0,157.4,156.3,222.7,1
+# Muestra 10/100 | Variación: IZQ=157.4 CENT=156.3 DER=222.7
+179.5,159.2,30.6,175.9,151.9,30.6,1
+# Muestra 11/100 | Variación: IZQ=175.9 CENT=151.9 DER=30.6
+151.1,161.8,0.0,28.4,2.6,30.6,1
+# Muestra 12/100 | Variación: IZQ=28.4 CENT=2.6 DER=30.6
+76.8,63.2,88.0,74.2,98.7,88.0,1
+# Muestra 13/100 | Variación: IZQ=74.2 CENT=98.7 DER=88.0
+89.3,57.1,0.0,12.4,6.1,88.0,1
+# Muestra 14/100 | Variación: IZQ=12.4 CENT=6.1 DER=88.0
+107.5,61.5,16.9,18.2,4.4,16.9,1
+# Muestra 15/100 | Variación: IZQ=18.2 CENT=4.4 DER=16.9
+76.4,57.0,29.6,31.1,4.5,12.7,1
+# Muestra 16/100 | Variación: IZQ=31.1 CENT=4.5 DER=12.7
+76.4,57.0,38.7,0.0,0.0,9.1,1
+# Muestra 17/100 | Variación: IZQ=0.0 CENT=0.0 DER=9.1
+7.1,6.3,11.0,69.3,50.6,27.7,1
+# Muestra 18/100 | Variación: IZQ=69.3 CENT=50.6 DER=27.7
+76.2,38.8,37.8,69.1,32.4,26.7,1
+# Muestra 19/100 | Variación: IZQ=69.1 CENT=32.4 DER=26.7
+4.2,5.7,163.0,72.0,33.1,125.2,1
+# Muestra 20/100 | Variación: IZQ=72.0 CENT=33.1 DER=125.2
+33.7,36.7,0.0,29.5,31.0,163.0,1
+# Muestra 21/100 | Variación: IZQ=29.5 CENT=31.0 DER=163.0
+4.5,14.2,0.0,29.2,22.5,0.0,1
+# Muestra 22/100 | Variación: IZQ=29.2 CENT=22.5 DER=0.0
+29.3,100.5,0.0,24.7,86.3,0.0,1
+# Muestra 23/100 | Variación: IZQ=24.7 CENT=86.3 DER=0.0
+3.6,10.0,0.0,25.7,90.5,0.0,1
+# Muestra 24/100 | Variación: IZQ=25.7 CENT=90.5 DER=0.0
+0.0,30.4,27.6,3.6,20.5,27.6,1
+# Muestra 25/100 | Variación: IZQ=3.6 CENT=20.5 DER=27.6
+0.0,265.5,56.9,0.0,235.1,29.3,1
+# Muestra 26/100 | Variación: IZQ=0.0 CENT=235.1 DER=29.3
+0.0,14.9,6.9,0.0,250.6,49.9,1
+# Muestra 27/100 | Variación: IZQ=0.0 CENT=250.6 DER=49.9
+58.6,13.5,0.0,58.6,1.4,6.9,1
+# Muestra 28/100 | Variación: IZQ=58.6 CENT=1.4 DER=6.9
+60.3,73.9,0.0,1.7,60.4,0.0,1
+# Muestra 29/100 | Variación: IZQ=1.7 CENT=60.4 DER=0.0
+7.4,11.0,81.3,52.9,62.9,81.3,1
+# Muestra 30/100 | Variación: IZQ=52.9 CENT=62.9 DER=81.3
+166.3,258.6,81.3,158.9,247.5,0.0,1
+# Muestra 31/100 | Variación: IZQ=158.9 CENT=247.5 DER=0.0
+165.4,146.6,25.8,0.9,111.9,55.5,1
+# Muestra 32/100 | Variación: IZQ=0.9 CENT=111.9 DER=55.5
+21.6,33.8,81.3,143.8,112.8,55.5,1
+# Muestra 33/100 | Variación: IZQ=143.8 CENT=112.8 DER=55.5
+10.7,12.1,0.0,10.9,21.7,81.3,1
+# Muestra 34/100 | Variación: IZQ=10.9 CENT=21.7 DER=81.3
+37.0,30.5,30.1,26.3,18.4,30.1,1
+# Muestra 35/100 | Variación: IZQ=26.3 CENT=18.4 DER=30.1
+9.0,7.9,10.7,28.0,22.5,19.5,1
+# Muestra 36/100 | Variación: IZQ=28.0 CENT=22.5 DER=19.5
+0.0,247.4,23.2,9.0,239.5,12.6,1
+# Muestra 37/100 | Variación: IZQ=9.0 CENT=239.5 DER=12.6
+155.1,23.3,10.3,155.1,224.1,12.9,1
+# Muestra 38/100 | Variación: IZQ=155.1 CENT=224.1 DER=12.9
+0.0,243.7,34.3,155.1,220.4,24.0,1
+# Muestra 39/100 | Variación: IZQ=155.1 CENT=220.4 DER=24.0
+8.7,5.7,10.0,8.7,238.1,24.3,1
+# Muestra 40/100 | Variación: IZQ=8.7 CENT=238.1 DER=24.3
+160.4,49.2,48.7,151.7,43.5,38.7,1
+# Muestra 41/100 | Variación: IZQ=151.7 CENT=43.5 DER=38.7
+6.8,8.6,70.5,153.6,40.6,21.9,1
+# Muestra 42/100 | Variación: IZQ=153.6 CENT=40.6 DER=21.9
+26.6,30.7,78.8,19.9,22.1,8.2,1
+# Muestra 43/100 | Variación: IZQ=19.9 CENT=22.1 DER=8.2
+25.2,31.5,78.3,1.5,0.8,0.4,1
+# Muestra 44/100 | Variación: IZQ=1.5 CENT=0.8 DER=0.4
+83.6,66.8,56.7,58.4,35.4,21.6,1
+# Muestra 45/100 | Variación: IZQ=58.4 CENT=35.4 DER=21.6
+53.4,51.0,57.4,30.2,15.8,0.7,1
+# Muestra 46/100 | Variación: IZQ=30.2 CENT=15.8 DER=0.7
+5.5,8.9,62.2,47.9,42.1,4.8,1
+# Muestra 47/100 | Variación: IZQ=47.9 CENT=42.1 DER=4.8
+35.6,35.1,40.1,30.1,26.2,22.1,1
+# Muestra 48/100 | Variación: IZQ=30.1 CENT=26.2 DER=22.1
+22.8,17.5,16.2,12.7,17.6,23.8,1
+# Muestra 49/100 | Variación: IZQ=12.7 CENT=17.6 DER=23.8
+63.6,27.0,41.0,40.8,9.5,24.7,1
+# Muestra 50/100 | Variación: IZQ=40.8 CENT=9.5 DER=24.7
+0.0,32.8,30.4,63.6,5.7,10.6,1
+# Muestra 51/100 | Variación: IZQ=63.6 CENT=5.7 DER=10.6
+0.0,196.7,106.8,0.0,163.9,76.5,1
+# Muestra 52/100 | Variación: IZQ=0.0 CENT=163.9 DER=76.5
+56.9,59.9,63.9,56.9,136.8,42.9,1
+# Muestra 53/100 | Variación: IZQ=56.9 CENT=136.8 DER=42.9
+56.5,59.5,76.5,0.4,0.4,12.6,1
+# Muestra 54/100 | Variación: IZQ=0.4 CENT=0.4 DER=12.6
+56.9,59.5,5.7,0.4,0.0,70.8,1
+# Muestra 55/100 | Variación: IZQ=0.4 CENT=0.0 DER=70.8
+56.1,66.5,22.6,0.8,7.0,17.0,1
+# Muestra 56/100 | Variación: IZQ=0.8 CENT=7.0 DER=17.0
+56.9,28.2,28.7,0.8,38.3,6.1,1
+# Muestra 57/100 | Variación: IZQ=0.8 CENT=38.3 DER=6.1
+5.5,3.1,45.7,51.4,25.1,16.9,1
+# Muestra 58/100 | Variación: IZQ=51.4 CENT=25.1 DER=16.9
+13.4,15.9,178.1,7.9,12.9,132.4,1
+# Muestra 59/100 | Variación: IZQ=7.9 CENT=12.9 DER=132.4
+16.1,167.1,0.0,2.7,151.2,178.1,1
+# Muestra 60/100 | Variación: IZQ=2.7 CENT=151.2 DER=178.1
+27.2,32.0,0.0,11.1,135.1,0.0,1
+# Muestra 61/100 | Variación: IZQ=11.1 CENT=135.1 DER=0.0
+7.4,9.6,116.5,19.8,22.4,116.5,1
+# Muestra 62/100 | Variación: IZQ=19.8 CENT=22.4 DER=116.5
+40.7,38.5,45.3,33.3,28.9,71.3,1
+# Muestra 63/100 | Variación: IZQ=33.3 CENT=28.9 DER=71.3
+11.0,10.3,10.7,29.7,28.2,34.6,1
+# Muestra 64/100 | Variación: IZQ=29.7 CENT=28.2 DER=34.6
+94.9,43.9,47.3,83.8,33.6,36.6,1
+# Muestra 65/100 | Variación: IZQ=83.8 CENT=33.6 DER=36.6
+94.9,37.6,35.3,0.0,6.3,12.0,1
+# Muestra 66/100 | Variación: IZQ=0.0 CENT=6.3 DER=12.0
+93.2,7.9,6.6,1.7,29.7,28.7,1
+# Muestra 67/100 | Variación: IZQ=1.7 CENT=29.7 DER=28.7
+94.1,63.2,48.5,0.8,55.2,41.8,1
+# Muestra 68/100 | Variación: IZQ=0.8 CENT=55.2 DER=41.8
+92.8,57.2,111.1,1.2,5.9,62.7,1
+# Muestra 69/100 | Variación: IZQ=1.2 CENT=5.9 DER=62.7
+93.3,119.8,121.4,0.4,62.6,10.2,1
+# Muestra 70/100 | Variación: IZQ=0.4 CENT=62.6 DER=10.2
+156.8,67.8,4.0,63.5,52.0,117.3,1
+# Muestra 71/100 | Variación: IZQ=63.5 CENT=52.0 DER=117.3
+96.0,57.1,40.8,60.8,10.7,36.7,1
+# Muestra 72/100 | Variación: IZQ=60.8 CENT=10.7 DER=36.7
+3.6,3.7,124.8,92.4,53.4,84.1,1
+# Muestra 73/100 | Variación: IZQ=92.4 CENT=53.4 DER=84.1
+10.7,23.0,0.0,7.1,19.3,124.8,1
+# Muestra 74/100 | Variación: IZQ=7.1 CENT=19.3 DER=124.8
+37.0,36.7,36.4,26.3,13.7,36.4,1
+# Muestra 75/100 | Variación: IZQ=26.3 CENT=13.7 DER=36.4
+8.7,10.7,36.4,28.3,26.0,0.0,1
+# Muestra 76/100 | Variación: IZQ=28.3 CENT=26.0 DER=0.0
+17.1,25.0,47.5,8.4,14.3,11.1,1
+# Muestra 77/100 | Variación: IZQ=8.4 CENT=14.3 DER=11.1
+191.7,0.0,21.4,174.6,25.0,26.1,1
+# Muestra 78/100 | Variación: IZQ=174.6 CENT=25.0 DER=26.1
+59.9,64.2,74.2,131.8,64.2,52.9,1
+# Muestra 79/100 | Variación: IZQ=131.8 CENT=64.2 DER=52.9
+50.1,60.3,0.0,9.8,3.8,74.2,1
+# Muestra 80/100 | Variación: IZQ=9.8 CENT=3.8 DER=74.2
+50.1,57.0,9.6,0.0,3.4,9.6,1
+# Muestra 81/100 | Variación: IZQ=0.0 CENT=3.4 DER=9.6
+16.4,81.3,62.2,33.7,24.3,52.6,1
+# Muestra 82/100 | Variación: IZQ=33.7 CENT=24.3 DER=52.6
+50.1,71.8,29.3,33.7,9.4,32.9,1
+# Muestra 83/100 | Variación: IZQ=33.7 CENT=9.4 DER=32.9
+50.1,56.8,0.0,0.0,15.0,29.3,1
+# Muestra 84/100 | Variación: IZQ=0.0 CENT=15.0 DER=29.3
+17.0,13.1,0.0,33.0,43.7,0.0,1
+# Muestra 85/100 | Variación: IZQ=33.0 CENT=43.7 DER=0.0
+16.1,14.2,16.9,1.0,1.1,16.9,1
+# Muestra 86/100 | Variación: IZQ=1.0 CENT=1.1 DER=16.9
+50.1,56.8,0.0,34.0,42.6,16.9,1
+# Muestra 87/100 | Variación: IZQ=34.0 CENT=42.6 DER=16.9
+12.1,13.2,124.6,38.0,43.6,124.6,1
+# Muestra 88/100 | Variación: IZQ=38.0 CENT=43.6 DER=124.6
+50.1,56.8,0.0,38.1,43.6,124.6,1
+# Muestra 89/100 | Variación: IZQ=38.1 CENT=43.6 DER=124.6
+50.1,12.4,14.9,0.0,44.4,14.9,1
+# Muestra 90/100 | Variación: IZQ=0.0 CENT=44.4 DER=14.9
+50.1,51.7,70.2,0.0,39.3,55.3,1
+# Muestra 91/100 | Variación: IZQ=0.0 CENT=39.3 DER=55.3
+6.8,9.6,0.0,43.3,42.1,70.2,1
+# Muestra 92/100 | Variación: IZQ=43.3 CENT=42.1 DER=70.2
+50.1,57.2,0.0,43.3,47.6,0.0,1
+# Muestra 93/100 | Variación: IZQ=43.3 CENT=47.6 DER=0.0
+7.7,89.1,0.0,42.4,31.8,0.0,1
+# Muestra 94/100 | Variación: IZQ=42.4 CENT=31.8 DER=0.0
+50.1,57.2,37.1,42.4,31.9,37.1,1
+# Muestra 95/100 | Variación: IZQ=42.4 CENT=31.9 DER=37.1
+50.1,57.2,0.0,0.0,0.0,37.1,1
+# Muestra 96/100 | Variación: IZQ=0.0 CENT=0.0 DER=37.1
+50.1,36.7,28.2,0.0,20.5,28.2,1
+# Muestra 97/100 | Variación: IZQ=0.0 CENT=20.5 DER=28.2
+50.1,56.8,57.1,0.0,20.1,29.0,1
+# Muestra 98/100 | Variación: IZQ=0.0 CENT=20.1 DER=29.0
+10.0,63.9,0.0,40.0,7.1,57.1,1
+# Muestra 99/100 | Variación: IZQ=40.0 CENT=7.1 DER=57.1
+50.1,57.8,0.0,40.0,6.1,0.0,1
+# Muestra 100/100 | Variación: IZQ=40.0 CENT=6.1 DER=0.0
+# ✓ 100 muestras capturadas. Copia las líneas sin # a datos_oponente.txt
+# → Sesión iniciada. Mueve el oponente frente al robot.
+# Primera lectura tomada como referencia...
+56.8,70.3,28.7,0.0,13.5,2.6,1
+# Muestra 1/100 | Variación: IZQ=0.0 CENT=13.5 DER=2.6
+56.8,64.7,0.0,0.0,5.6,28.7,1
+# Muestra 2/100 | Variación: IZQ=0.0 CENT=5.6 DER=28.7
+56.7,70.3,59.8,0.0,5.6,59.8,1
+# Muestra 3/100 | Variación: IZQ=0.0 CENT=5.6 DER=59.8
+56.7,93.1,19.4,0.0,22.8,40.4,1
+# Muestra 4/100 | Variación: IZQ=0.0 CENT=22.8 DER=40.4
+56.3,11.7,12.1,0.5,81.4,7.4,1
+# Muestra 5/100 | Variación: IZQ=0.5 CENT=81.4 DER=7.4
+6.1,6.6,23.2,50.1,5.1,11.1,1
+# Muestra 6/100 | Variación: IZQ=50.1 CENT=5.1 DER=11.1
+3.9,5.7,51.4,2.2,1.0,28.2,1
+# Muestra 7/100 | Variación: IZQ=2.2 CENT=1.0 DER=28.2
+9.0,17.5,0.0,5.1,11.9,51.4,1
+# Muestra 8/100 | Variación: IZQ=5.1 CENT=11.9 DER=51.4
+5.8,13.8,0.0,3.2,3.7,0.0,1
+# Muestra 9/100 | Variación: IZQ=3.2 CENT=3.7 DER=0.0
+15.4,13.5,16.2,9.6,0.3,16.2,1
+# Muestra 10/100 | Variación: IZQ=9.6 CENT=0.3 DER=16.2
+27.8,23.0,52.3,12.4,9.5,36.0,1
+# Muestra 11/100 | Variación: IZQ=12.4 CENT=9.5 DER=36.0
+57.1,31.7,29.6,29.3,8.8,22.7,1
+# Muestra 12/100 | Variación: IZQ=29.3 CENT=8.8 DER=22.7
+63.2,33.1,32.7,6.1,1.3,3.1,1
+# Muestra 13/100 | Variación: IZQ=6.1 CENT=1.3 DER=3.1
+21.2,22.1,24.4,41.9,11.0,8.4,1
+# Muestra 14/100 | Variación: IZQ=41.9 CENT=11.0 DER=8.4
+56.6,10.0,8.6,35.4,12.1,15.8,1
+# Muestra 15/100 | Variación: IZQ=35.4 CENT=12.1 DER=15.8
+57.1,80.7,13.1,0.4,70.8,4.5,1
+# Muestra 16/100 | Variación: IZQ=0.4 CENT=70.8 DER=4.5
+56.6,80.7,0.0,0.4,0.0,13.1,1
+# Muestra 17/100 | Variación: IZQ=0.4 CENT=0.0 DER=13.1
+56.6,81.2,31.4,0.0,0.4,31.4,1
+# Muestra 18/100 | Variación: IZQ=0.0 CENT=0.4 DER=31.4
+56.6,8.6,8.9,0.0,72.6,22.5,1
+# Muestra 19/100 | Variación: IZQ=0.0 CENT=72.6 DER=22.5
+20.9,16.9,16.2,35.7,8.3,7.3,1
+# Muestra 20/100 | Variación: IZQ=35.7 CENT=8.3 DER=7.3
+22.8,20.5,23.2,1.9,3.6,7.0,1
+# Muestra 21/100 | Variación: IZQ=1.9 CENT=3.6 DER=7.0
+16.7,16.9,0.0,6.1,3.6,23.2,1
+# Muestra 22/100 | Variación: IZQ=6.1 CENT=3.6 DER=23.2
+24.3,53.7,0.0,7.5,36.8,0.0,1
+# Muestra 23/100 | Variación: IZQ=7.5 CENT=36.8 DER=0.0
+30.0,29.4,0.0,5.8,24.4,0.0,1
+# Muestra 24/100 | Variación: IZQ=5.8 CENT=24.4 DER=0.0
+34.2,33.6,36.1,4.2,4.2,36.1,1
+# Muestra 25/100 | Variación: IZQ=4.2 CENT=4.2 DER=36.1
+33.2,31.7,32.2,1.0,1.8,3.9,1
+# Muestra 26/100 | Variación: IZQ=1.0 CENT=1.8 DER=3.9
+160.6,19.8,20.1,127.4,11.9,12.1,1
+# Muestra 27/100 | Variación: IZQ=127.4 CENT=11.9 DER=12.1
+162.9,73.5,3.1,2.2,53.7,17.0,1
+# Muestra 28/100 | Variación: IZQ=2.2 CENT=53.7 DER=17.0
+100.0,370.7,10.3,62.8,297.2,7.3,1
+# Muestra 29/100 | Variación: IZQ=62.8 CENT=297.2 DER=7.3
+100.1,31.2,23.5,0.0,339.5,13.2,1
+# Muestra 30/100 | Variación: IZQ=0.0 CENT=339.5 DER=13.2
+38.9,37.4,40.3,61.2,6.1,16.8,1
+# Muestra 31/100 | Variación: IZQ=61.2 CENT=6.1 DER=16.8
+38.4,26.5,0.0,0.5,10.9,40.3,1
+# Muestra 32/100 | Variación: IZQ=0.5 CENT=10.9 DER=40.3
+13.7,16.6,0.0,24.6,9.9,0.0,1
+# Muestra 33/100 | Variación: IZQ=24.6 CENT=9.9 DER=0.0
+9.7,57.1,0.0,4.0,40.5,0.0,1
+# Muestra 34/100 | Variación: IZQ=4.0 CENT=40.5 DER=0.0
+5.8,13.8,0.0,3.9,43.3,0.0,1
+# Muestra 35/100 | Variación: IZQ=3.9 CENT=43.3 DER=0.0
+9.4,10.0,50.4,3.6,3.9,50.4,1
+# Muestra 36/100 | Variación: IZQ=3.6 CENT=3.9 DER=50.4
+56.6,27.3,26.1,47.2,17.4,24.3,1
+# Muestra 37/100 | Variación: IZQ=47.2 CENT=17.4 DER=24.3
+0.0,31.5,27.6,56.6,4.2,1.5,1
+# Muestra 38/100 | Variación: IZQ=56.6 CENT=4.2 DER=1.5
+0.0,369.0,33.3,0.0,337.5,5.7,1
+# Muestra 39/100 | Variación: IZQ=0.0 CENT=337.5 DER=5.7
+0.0,37.6,34.0,0.0,331.4,0.8,1
+# Muestra 40/100 | Variación: IZQ=0.0 CENT=331.4 DER=0.8
+0.0,149.9,28.2,0.0,112.3,5.9,1
+# Muestra 41/100 | Variación: IZQ=0.0 CENT=112.3 DER=5.9
+19.0,19.5,19.4,19.0,130.4,8.7,1
+# Muestra 42/100 | Variación: IZQ=19.0 CENT=130.4 DER=8.7
+10.0,9.6,11.4,9.0,9.8,8.1,1
+# Muestra 43/100 | Variación: IZQ=9.0 CENT=9.8 DER=8.1
+16.7,18.8,91.3,6.7,9.2,80.0,1
+# Muestra 44/100 | Variación: IZQ=6.7 CENT=9.2 DER=80.0
+16.7,0.0,89.6,0.0,18.8,1.7,1
+# Muestra 45/100 | Variación: IZQ=0.0 CENT=18.8 DER=1.7
+20.3,91.5,89.4,3.6,91.5,0.3,1
+# Muestra 46/100 | Variación: IZQ=3.6 CENT=91.5 DER=0.3
+30.0,29.9,57.1,9.8,61.6,32.2,1
+# Muestra 47/100 | Variación: IZQ=9.8 CENT=61.6 DER=32.2
+33.5,37.1,44.1,3.4,7.2,13.1,1
+# Muestra 48/100 | Variación: IZQ=3.4 CENT=7.2 DER=13.1
+17.4,16.6,48.5,16.1,20.6,4.4,1
+# Muestra 49/100 | Variación: IZQ=16.1 CENT=20.6 DER=4.4
+11.7,9.6,12.1,5.7,6.9,36.4,1
+# Muestra 50/100 | Variación: IZQ=5.7 CENT=6.9 DER=36.4
+0.0,15.9,11.0,11.7,6.3,1.1,1
+# Muestra 51/100 | Variación: IZQ=11.7 CENT=6.3 DER=1.1
+0.0,41.8,35.9,0.0,25.8,24.9,1
+# Muestra 52/100 | Variación: IZQ=0.0 CENT=25.8 DER=24.9
+0.0,63.0,34.6,0.0,21.2,1.3,1
+# Muestra 53/100 | Variación: IZQ=0.0 CENT=21.2 DER=1.3
+0.0,15.9,10.3,0.0,47.1,24.3,1
+# Muestra 54/100 | Variación: IZQ=0.0 CENT=47.1 DER=24.3
+4.2,6.3,57.1,4.2,9.6,46.8,1
+# Muestra 55/100 | Variación: IZQ=4.2 CENT=9.6 DER=46.8
+23.4,25.3,56.9,19.2,19.0,0.3,1
+# Muestra 56/100 | Variación: IZQ=19.2 CENT=19.0 DER=0.3
+37.7,38.5,54.5,14.3,13.2,2.3,1
+# Muestra 57/100 | Variación: IZQ=14.3 CENT=13.2 DER=2.3
+162.3,57.0,35.6,124.6,18.4,18.9,1
+# Muestra 58/100 | Variación: IZQ=124.6 CENT=18.4 DER=18.9
+95.0,35.7,29.6,67.3,21.3,6.0,1
+# Muestra 59/100 | Variación: IZQ=67.3 CENT=21.3 DER=6.0
+21.9,20.8,23.2,73.1,14.9,6.4,1
+# Muestra 60/100 | Variación: IZQ=73.1 CENT=14.9 DER=6.4
+16.1,17.9,90.8,5.8,2.9,67.6,1
+# Muestra 61/100 | Variación: IZQ=5.8 CENT=2.9 DER=67.6
+16.1,78.4,0.0,0.0,60.5,90.8,1
+# Muestra 62/100 | Variación: IZQ=0.0 CENT=60.5 DER=90.8
+11.4,16.3,23.5,4.7,62.1,23.5,1
+# Muestra 63/100 | Variación: IZQ=4.7 CENT=62.1 DER=23.5
+10.7,9.6,200.1,0.7,6.6,176.6,1
+# Muestra 64/100 | Variación: IZQ=0.7 CENT=6.6 DER=176.6
+103.9,14.2,13.1,93.2,4.6,187.0,1
+# Muestra 65/100 | Variación: IZQ=93.2 CENT=4.6 DER=187.0
+102.2,38.7,29.9,1.7,24.5,16.7,1
+# Muestra 66/100 | Variación: IZQ=1.7 CENT=24.5 DER=16.7
+101.3,0.0,37.1,0.9,38.7,7.2,1
+# Muestra 67/100 | Variación: IZQ=0.9 CENT=38.7 DER=7.2
+93.8,24.1,16.9,7.5,24.1,20.2,1
+# Muestra 68/100 | Variación: IZQ=7.5 CENT=24.1 DER=20.2
+9.4,8.3,10.7,84.4,15.9,6.2,1
+# Muestra 69/100 | Variación: IZQ=84.4 CENT=15.9 DER=6.2
+3.9,11.0,0.0,5.5,2.8,10.7,1
+# Muestra 70/100 | Variación: IZQ=5.5 CENT=2.8 DER=10.7
+9.0,10.7,0.0,5.1,0.3,0.0,1
+# Muestra 71/100 | Variación: IZQ=5.1 CENT=0.3 DER=0.0
+24.0,23.0,26.7,15.0,12.3,26.7,1
+# Muestra 72/100 | Variación: IZQ=15.0 CENT=12.3 DER=26.7
+40.5,37.6,38.5,16.5,14.6,11.7,1
+# Muestra 73/100 | Variación: IZQ=16.5 CENT=14.6 DER=11.7
+164.8,25.3,23.2,124.3,12.3,15.2,1
+# Muestra 74/100 | Variación: IZQ=124.3 CENT=12.3 DER=15.2
+165.2,181.9,10.7,0.4,156.5,12.6,1
+# Muestra 75/100 | Variación: IZQ=0.4 CENT=156.5 DER=12.6
+164.7,0.0,0.0,0.5,181.9,10.7,1
+# Muestra 76/100 | Variación: IZQ=0.5 CENT=181.9 DER=10.7
+165.5,0.0,0.0,0.8,0.0,0.0,1
+# Muestra 77/100 | Variación: IZQ=0.8 CENT=0.0 DER=0.0
+164.7,0.0,0.0,0.8,0.0,0.0,1
+# Muestra 78/100 | Variación: IZQ=0.8 CENT=0.0 DER=0.0
+164.7,0.0,0.0,0.0,0.0,0.0,1
+# Muestra 79/100 | Variación: IZQ=0.0 CENT=0.0 DER=0.0
+164.7,0.0,0.0,0.0,0.0,0.0,1
+# Muestra 80/100 | Variación: IZQ=0.0 CENT=0.0 DER=0.0
+165.7,27.3,27.3,0.9,27.3,27.3,1
+# Muestra 81/100 | Variación: IZQ=0.9 CENT=27.3 DER=27.3
+165.1,29.9,27.0,0.5,2.6,0.3,1
+# Muestra 82/100 | Variación: IZQ=0.5 CENT=2.6 DER=0.3
+166.0,51.8,48.3,0.9,21.9,21.3,1
+# Muestra 83/100 | Variación: IZQ=0.9 CENT=21.9 DER=21.3
+30.0,87.7,40.7,135.9,35.8,7.5,1
+# Muestra 84/100 | Variación: IZQ=135.9 CENT=35.8 DER=7.5
+17.4,30.4,0.0,12.7,57.2,40.7,1
+# Muestra 85/100 | Variación: IZQ=12.7 CENT=57.2 DER=40.7
+10.7,60.2,64.9,6.7,29.8,64.9,1
+# Muestra 86/100 | Variación: IZQ=6.7 CENT=29.8 DER=64.9
+6.1,6.6,80.6,4.6,53.6,15.7,1
+# Muestra 87/100 | Variación: IZQ=4.6 CENT=53.6 DER=15.7
+17.0,9.6,10.7,10.9,3.0,69.9,1
+# Muestra 88/100 | Variación: IZQ=10.9 CENT=3.0 DER=69.9
+165.9,36.4,33.3,148.9,26.8,22.6,1
+# Muestra 89/100 | Variación: IZQ=148.9 CENT=26.8 DER=22.6
+179.8,30.4,30.1,13.8,6.0,3.1,1
+# Muestra 90/100 | Variación: IZQ=13.8 CENT=6.0 DER=3.1
+180.6,0.0,11.0,0.9,30.4,19.1,1
+# Muestra 91/100 | Variación: IZQ=0.9 CENT=30.4 DER=19.1
+181.1,16.0,10.3,0.5,16.0,0.7,1
+# Muestra 92/100 | Variación: IZQ=0.5 CENT=16.0 DER=0.7
+56.8,52.9,55.5,124.4,36.9,45.2,1
+# Muestra 93/100 | Variación: IZQ=124.4 CENT=36.9 DER=45.2
+13.7,14.9,44.3,43.0,38.0,11.3,1
+# Muestra 94/100 | Variación: IZQ=43.0 CENT=38.0 DER=11.3
+57.6,53.4,0.0,43.9,38.5,44.3,1
+# Muestra 95/100 | Variación: IZQ=43.9 CENT=38.5 DER=44.3
+16.1,65.2,42.6,41.5,11.8,42.6,1
+# Muestra 96/100 | Variación: IZQ=41.5 CENT=11.8 DER=42.6
+14.7,18.8,42.8,1.4,46.3,0.3,1
+# Muestra 97/100 | Variación: IZQ=1.4 CENT=46.3 DER=0.3
+36.8,37.6,0.0,22.0,18.8,42.8,1
+# Muestra 98/100 | Variación: IZQ=22.0 CENT=18.8 DER=42.8
+5.8,6.6,9.3,31.0,31.0,9.3,1
+# Muestra 99/100 | Variación: IZQ=31.0 CENT=31.0 DER=9.3
+59.2,54.8,43.9,53.4,48.1,34.6,1
+# Muestra 100/100 | Variación: IZQ=53.4 CENT=48.1 DER=34.6
+# ✓ 100 muestras capturadas. Copia las líneas sin # a datos_oponente.txt
